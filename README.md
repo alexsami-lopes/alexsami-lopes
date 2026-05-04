@@ -12,7 +12,7 @@
 
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5E639A&center=true&vCenter=true&width=600&lines=Building+applications+that+scale+%F0%9F%9A%80;React+%7C+Node.js+%7C+TypeScript+%7C+TailwindCSS;UX/UI+Enthusiast+☕)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5E639A&center=true&vCenter=true&width=600&lines=Frontend+%C2%B7+React+%26+TypeScript;UX%2FUI+focused+%E2%80%94+design+%2B+engineering;Crafting+high-quality+web+experiences)](https://git.io/typing-svg)
 
 
 ```
