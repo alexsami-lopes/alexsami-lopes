@@ -12,7 +12,7 @@
 
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5E639A&center=true&vCenter=true&width=600&lines=Frontend+%C2%B7+React+%26+TypeScript;UX%2FUI+focused+%E2%80%94+design+%2B+engineering;Crafting+high-quality+web+experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0099e6&center=true&vCenter=true&width=600&lines=Frontend+%C2%B7+React+%26+TypeScript;UX%2FUI+focused+%E2%80%94+design+%2B+engineering;Crafting+high-quality+web+experiences)](https://git.io/typing-svg)
 
 
 ```
@@ -79,6 +79,19 @@ Figma
 ![snake](https://raw.githubusercontent.com/alexsami-lopes/github-stats/output/github-contribution-grid-snake.svg)
 
 
+## 🥇 Top Languages
+
+<br/>
+
+
+![Top Linguagens](https://github-readme-stats-seven-flame-36.vercel.app/api/top-langs/?username=alexsami-lopes&show_icons=true&layout=pie&bg_color=00000000&icon_color=e8774a&ring_color=e8774a&text_color=0d1f3c&title_color=0099e6)
+
+
+## 📊 Stats
+
+<br/>
+
+![Status](https://github-readme-stats-seven-flame-36.vercel.app/api?username=alexsami-lopes&show_icons=true&bg_color=00000000&icon_color=e8774a&ring_color=e8774a&text_color=0d1f3c&title_color=0099e6&include_all_commits=true)
 
 ## 🔥 Streak
 
