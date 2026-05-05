@@ -97,10 +97,8 @@ Figma
 
 <br/>
 
-
+![Streak](https://streak-stats.demolab.com/?user=alexsami-lopes&background=00000000&fire=f56607&ring=f56607&currStreakLabel=0099e6&sideLabels=0099e6&currStreakNum=b5b5b5&sideNums=b5b5b5&dates=b5b5b5)
   
-![streak](https://streak-stats.demolab.com?user=alexsami-lopes)
-
 <br/>
 
 <b>Projects worth your time</b>
