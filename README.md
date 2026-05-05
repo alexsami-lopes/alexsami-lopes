@@ -84,20 +84,20 @@ Figma
 <br/>
 
 
-![Top Linguagens](https://github-readme-stats-seven-flame-36.vercel.app/api/top-langs/?username=alexsami-lopes&show_icons=true&layout=pie&bg_color=00000000&icon_color=e8774a&ring_color=e8774a&text_color=b5b5b5&title_color=0099e6)
+![Top Linguagens](https://github-readme-stats-seven-flame-36.vercel.app/api/top-langs/?username=alexsami-lopes&show_icons=true&layout=pie&bg_color=00000000&icon_color=e8774a&ring_color=e8774a&text_color=636363&title_color=0099e6)
 
 
 ## 📊 Stats
 
 <br/>
 
-![Status](https://github-readme-stats-seven-flame-36.vercel.app/api?username=alexsami-lopes&show_icons=true&bg_color=00000000&icon_color=f56607&ring_color=f56607&text_color=b5b5b5&title_color=0099e6&include_all_commits=true)
+![Status](https://github-readme-stats-seven-flame-36.vercel.app/api?username=alexsami-lopes&show_icons=true&bg_color=00000000&icon_color=f56607&ring_color=f56607&text_color=636363&title_color=0099e6&include_all_commits=true)
 
 ## 🔥 Streak
 
 <br/>
 
-![Streak](https://streak-stats.demolab.com/?user=alexsami-lopes&background=00000000&fire=f56607&ring=f56607&currStreakLabel=0099e6&sideLabels=0099e6&currStreakNum=b5b5b5&sideNums=b5b5b5&dates=b5b5b5)
+![Streak](https://streak-stats.demolab.com/?user=alexsami-lopes&background=00000000&fire=f56607&ring=f56607&currStreakLabel=0099e6&sideLabels=0099e6&currStreakNum=636363&sideNums=636363&dates=636363)
   
 <br/>
 
