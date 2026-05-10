@@ -123,6 +123,8 @@ Figma
 
 ---
 
+<br/>
+
 <div align="center">
   
 ![](https://visitor-badge.laobi.icu/badge?page_id=alexsami-lopes)
