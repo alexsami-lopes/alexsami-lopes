@@ -123,7 +123,6 @@ Figma
 
 ---
 
-<br/>
 
 <div align="center">
   
