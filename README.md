@@ -101,6 +101,8 @@ Figma
   
 <br/>
 
+---
+
 <b>Projects worth your time</b>
 
 <br/>
