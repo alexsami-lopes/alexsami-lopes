@@ -71,8 +71,10 @@ Figma
 
 
 <div align="center">
+
+---
   
-## 🐍 Snake
+**🐍 Snake**
 
 
 
