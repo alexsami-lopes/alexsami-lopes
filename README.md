@@ -80,8 +80,9 @@ Figma
 
 ![snake](https://raw.githubusercontent.com/alexsami-lopes/github-stats/output/github-contribution-grid-snake.svg)
 
+---
 
-## 🥇 Top Languages
+**🥇 Top Languages**
 
 <br/>
 
