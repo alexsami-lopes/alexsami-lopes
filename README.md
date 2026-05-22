@@ -97,7 +97,6 @@ Figma
 
 ![Status](https://github-readme-stats-seven-flame-36.vercel.app/api?username=alexsami-lopes&show_icons=true&bg_color=ededed&icon_color=f56607&ring_color=f56607&text_color=636363&title_color=0099e6&include_all_commits=true)
 
----
 
 **🔥 Streak**
 
