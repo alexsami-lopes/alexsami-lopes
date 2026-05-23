@@ -89,7 +89,6 @@ Figma
 
 ![Top Linguagens](https://github-readme-stats-seven-flame-36.vercel.app/api/top-langs/?username=alexsami-lopes&show_icons=true&layout=pie&bg_color=ededed&icon_color=e8774a&ring_color=e8774a&text_color=636363&title_color=0099e6)
 
----
 
 **📊 Stats**
 
