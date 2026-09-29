@@ -81,7 +81,7 @@ Figma
 ![snake](https://raw.githubusercontent.com/alexsami-lopes/github-stats/output/github-contribution-grid-snake.svg)
 
 
-<!-- **🥇 Top Languages**
+ <!--**🥇 Top Languages**
 
 <br/>
 
@@ -95,7 +95,7 @@ Figma
 
 ![Status](https://github-readme-stats-seven-flame-36.vercel.app/api?username=alexsami-lopes&show_icons=true&bg_color=ededed&icon_color=f56607&ring_color=f56607&text_color=636363&title_color=0099e6&include_all_commits=true) 
 
-
+-->
 **🔥 Streak**
 
 <br/>
@@ -103,7 +103,7 @@ Figma
 ![Streak](https://streak-stats.demolab.com/?user=alexsami-lopes&background=ededed&fire=f56607&ring=f56607&currStreakLabel=0099e6&sideLabels=0099e6&currStreakNum=636363&sideNums=636363&dates=636363)
   
 <br/>
--->
+
 
 ---
 
