@@ -115,6 +115,7 @@ Figma
 |---------|-----------|-------|
 | [**siteCursos**](https://github.com/alexsami-lopes/siteCursos) | An e-learning platform. | TypeScript, JavaScript, Prisma, PostgreSQL, Docker. |
 | [**tmdb-scraper**](https://github.com/alexsami-lopes/tmdb-scraper) | A movie scraper for TMDb focused on the Top 20 movies currently in theaters. | JavaScript. |
+| [**tmdb-scraper**](https://github.com/alexsami-lopes/tmdb-scraper) | A movie scraper for TMDb focused on the Top 20 movies currently in theaters. | JavaScript. |
 </div>
 
 <br/>
