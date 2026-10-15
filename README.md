@@ -129,7 +129,7 @@ Figma
 **Where to find me**
 
 [linkedin.com/in/alexsami-lopes](https://www.linkedin.com/in/alexsami-lopes/) &nbsp;·&nbsp; [alexsami.lopes@gmail.com](mailto:alexsami.lopes@gmail.com)
-
+[linkedin.com/in/alexsami-lopes](https://www.linkedin.com/in/alexsami-lopes/) &nbsp;·&nbsp; [alexsami.lopes@gmail.com](mailto:alexsami.lopes@gmail.com)
 </div>
 
 <br/>
