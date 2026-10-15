@@ -139,5 +139,5 @@ Figma
 <div align="center">
   
 ![](https://visitor-badge.laobi.icu/badge?page_id=alexsami-lopes)
-
+![](https://visitor-badge.laobi.icu/badge?page_id=alexsami-lopes)
 </div>
